@@ -7,7 +7,7 @@
 - https://courses.cs.washington.edu/courses/cse512/19sp/
 
 ## Sampe Data Elements
-The data file contains many columns. THe following list some of the commonly used ones. 
+The data file contains many columns. The following are some of the commonly used ones. 
 
 - __UNITID__ <br>Data files are provided at the UNITID level, which is the unique identification number assigned to postsecondary institutions as surveyed through IPEDS - Integrated Postsecondary Education Data System.
 
@@ -27,7 +27,7 @@ The data file contains many columns. THe following list some of the commonly use
 - __PREDDEG__ <br>Predominant undergraduate award identifies the type of award that the institution primarily confers; for instance, an institution that awards 40 percent bachelor’s degrees, 30 percent associate degrees, and 30 percent certificate programs would be classified as predominantly bachelor’s degree awarding.
 
 
-- __CONTROL__ <br>This element is reported directly to IPEDS, and identifies whether the institution’s governance structure is public, private nonprofit, or private for-profit.
+- __CONTROL__ <br>This element is reported directly to IPEDS, and identifies whether the institution’s governance structure is public (1), private nonprofit(2), or private for-profit(3).
 
 
 - __DISTANCEONLY__ <br>Institutions are identified as distance education-only if all their programs are available only via distance education.
