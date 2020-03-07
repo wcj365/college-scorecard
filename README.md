@@ -6,8 +6,9 @@
 - https://nextjournal.com/sdanisch/data-types-graphical-marks-and-visual-encoding-channels#summary
 - https://courses.cs.washington.edu/courses/cse512/19sp/
 
-## Data Elements for Analysis
-The data file contains many columns. Only load the columns of interest. 
+## Sampe Data Elements
+The data file contains many columns. THe following list some of the commonly used ones. 
+
 - __UNITID__ <br>Data files are provided at the UNITID level, which is the unique identification number assigned to postsecondary institutions as surveyed through IPEDS - Integrated Postsecondary Education Data System.
 
 
